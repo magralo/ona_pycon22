@@ -1,0 +1,21 @@
+from,to,n_meetings
+Jose,Mateo,10
+Jose,Carlos 1,3
+Jose,Pablo,15
+Jose,Deisy,2
+Mateo,Camila,10
+Mateo,Daniela,6
+Tomas,Vanessa,10
+Tomas,Carlos 2,8
+Tomas,Diego,9
+Tomas,Juan,2
+Adolfo,Jose,10
+Adolfo,Vanessa,13
+Adolfo,Mateo,10
+Adolfo,Carlos,4
+Adolfo,Vanessa,7
+Adolfo,Diego,4
+Adolfo,Carlos 2,1
+Carlos 2,Mateo,10
+Tomas,Mateo,3
+Vanessa,Mateo,6
